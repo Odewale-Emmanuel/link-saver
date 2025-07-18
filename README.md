@@ -1,7 +1,3 @@
-# link-saver
-
-you want to steal my idea ?????? 😂🤣😁😒😒😒 calm down i'll update this later.....
-
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
